@@ -1,7 +1,10 @@
-<h1>Transformando dados em decisões melhores</h1>
+# Hi 👋, I'm Vinicius Menezes
+
+🚀 **Data Analyst Jr | **  
+🇧🇷 Brazil
 
 <p>
-Junior Data Analyst apaixonado por tecnologia, dados e resolução de problemas.<br>
+Data Analyst Jr apaixonado por tecnologia, dados e resolução de problemas.<br>
 Desenvolvendo habilidades em Data Analytics, Business Intelligence e Inteligência Artificial.
 </p>
 
